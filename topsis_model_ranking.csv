@@ -1,0 +1,6 @@
+Model,Accuracy,F1-score,Inference Time (ms),Model Size (MB),TOPSIS Score,Rank
+distilbert-base-uncased,0.87,0.86,8,250,0.8839754359779668,1
+albert-base-v2,0.88,0.87,10,200,0.8604243411613947,2
+bert-base-uncased,0.89,0.88,12,420,0.6131071191760636,3
+roberta-base,0.91,0.92,14,500,0.4604643380244036,4
+xlnet-base-cased,0.9,0.91,20,700,0.07787639306355407,5
