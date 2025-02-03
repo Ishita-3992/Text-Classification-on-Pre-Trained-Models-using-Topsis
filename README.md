@@ -62,11 +62,11 @@ BERT and RoBERTa have strong accuracy, but their larger model size and longer in
 
 XLNet ranks the lowest due to its large model size and high inference time, despite its decent accuracy and F1-score.
 
-!['1'](images/1.png)
+!['1'](1.png)
 
-!['2'](images/2.png)
+!['2'](2.png)
 
-!['3'](images/3.png)
+!['3'](3.png)
 
 
 
