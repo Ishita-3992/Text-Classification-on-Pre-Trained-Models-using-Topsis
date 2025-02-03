@@ -45,7 +45,7 @@ Ideal Best & Worst Values:
 The ideal best and worst values for each metric were determined based on the normalized data.
 
 TOPSIS Score Calculation: 
-The Euclidean distance from both the ideal best and worst values was calculated. T
+The Euclidean distance from both the ideal best and worst values was calculated. 
 
 
 ##  Ranking
